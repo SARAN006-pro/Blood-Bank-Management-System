@@ -22,11 +22,9 @@ target/
 **/target/
 *.class
 *.jar
+!**/.mvn/wrapper/maven-wrapper.jar
 *.war
 *.ear
-.mvn/
-mvnw
-mvnw.cmd
 
 # ----------------------------------------------------
 # Frontend Build Outputs
