@@ -1,6 +1,6 @@
 package com.bloodbank.security;
 
-import com.bloodbank.user.UserRepository;
+import com.bloodbank.repository.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

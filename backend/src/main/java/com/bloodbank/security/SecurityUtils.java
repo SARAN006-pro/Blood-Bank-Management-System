@@ -1,6 +1,6 @@
 package com.bloodbank.security;
 
-import com.bloodbank.common.enums.Role;
+import com.bloodbank.model.enums.Role;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 

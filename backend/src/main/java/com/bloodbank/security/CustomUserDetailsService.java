@@ -1,6 +1,7 @@
 package com.bloodbank.security;
+import com.bloodbank.model.User;
 
-import com.bloodbank.user.UserRepository;
+import com.bloodbank.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

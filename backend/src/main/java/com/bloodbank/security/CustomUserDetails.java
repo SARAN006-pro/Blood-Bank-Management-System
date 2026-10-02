@@ -1,7 +1,7 @@
 package com.bloodbank.security;
 
-import com.bloodbank.common.enums.Role;
-import com.bloodbank.user.User;
+import com.bloodbank.model.enums.Role;
+import com.bloodbank.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

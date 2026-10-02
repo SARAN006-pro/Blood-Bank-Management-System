@@ -1,6 +1,7 @@
 package com.bloodbank.security;
+import com.bloodbank.config.AppProperties;
 
-import com.bloodbank.common.enums.Role;
+import com.bloodbank.model.enums.Role;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.Jwts;
